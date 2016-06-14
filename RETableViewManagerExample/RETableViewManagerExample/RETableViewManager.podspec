@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name        = 'ARNORETableViewManager'
-  s.version     = '1.7'
+  s.version     = '0.0.1'
   s.authors     = { 'Roman Efimov' => 'romefimov@gmail.com' }
   s.homepage    = 'https://github.com/arno608rw/RETableViewManager'
   s.summary     = 'Powerful data driven content manager for UITableView.'
