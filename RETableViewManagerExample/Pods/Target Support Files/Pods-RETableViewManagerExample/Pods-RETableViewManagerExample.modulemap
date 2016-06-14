@@ -1,0 +1,6 @@
+framework module Pods_RETableViewManagerExample {
+  umbrella header "Pods-RETableViewManagerExample-umbrella.h"
+
+  export *
+  module * { export * }
+}

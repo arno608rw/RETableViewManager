@@ -14,10 +14,10 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '2F3B3F6ED76D7131592E587E3B5659BF'
-               BlueprintName = 'RETableViewManager'
+               BlueprintIdentifier = '5EE49EE80BE3493408C22E08083A8EA8'
+               BlueprintName = 'REFormattedNumberField'
                ReferencedContainer = 'container:Pods.xcodeproj'
-               BuildableName = 'RETableViewManager.framework'>
+               BuildableName = 'REFormattedNumberField.framework'>
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>

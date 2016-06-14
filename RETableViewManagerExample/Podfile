@@ -1,2 +1,8 @@
-platform :ios, '7.0'
-pod 'RETableViewManager', :path => '../'
+platform :ios, '8.0'
+use_frameworks!
+
+target 'RETableViewManagerExample' do
+    pod 'RETableViewManager', :path => '../'
+end
+
+
