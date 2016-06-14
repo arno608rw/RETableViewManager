@@ -19,6 +19,5 @@ Pod::Spec.new do |s|
 
   s.dependency 'REFormattedNumberField'
   s.dependency 'REValidation'
-  # s.dependency 'RETableViewManager', '~> 1.7'
 
 end
