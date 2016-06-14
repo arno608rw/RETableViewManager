@@ -1,9 +1,9 @@
 Pod::Spec.new do |s|
   s.name        = 'ARNORETableViewManager'
   s.version     = '0.0.1'
-  s.authors     = { 'Roman Efimov' => 'romefimov@gmail.com' }
+  s.authors     = { 'Thitipong Wongsatho' => 'arno608rw@gmail.com' }
   s.homepage    = 'https://github.com/arno608rw/RETableViewManager'
-  s.summary     = 'Powerful data driven content manager for UITableView.'
+  s.summary     = 'Powerful data driven content manager for UITableView. Thank & Power by RETableViewManager'
   s.source      = { :git => 'https://github.com/arno608rw/RETableViewManager.git',
                     :tag => s.version.to_s }
   s.license     = { :type => "MIT", :file => "LICENSE" }
