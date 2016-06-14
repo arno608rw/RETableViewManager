@@ -356,11 +356,6 @@
 			attributes = {
 				LastUpgradeCheck = 0510;
 				ORGANIZATIONNAME = "Roman Efimov";
-				TargetAttributes = {
-					30EF93AE16E039B800B84981 = {
-						DevelopmentTeam = 28LMQ2XKWE;
-					};
-				};
 			};
 			buildConfigurationList = 30EF93AA16E039B800B84981 /* Build configuration list for PBXProject "RETableViewManagerExample" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -571,11 +566,12 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 98A3732DA034C363C86C3F9A /* Pods-RETableViewManagerExample.debug.xcconfig */;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "RETableViewManagerExample/RETableViewManagerExample-Prefix.pch";
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				INFOPLIST_FILE = "RETableViewManagerExample/RETableViewManagerExample-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -587,11 +583,12 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 92CD86CF06AC4DC75FFED880 /* Pods-RETableViewManagerExample.release.xcconfig */;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "RETableViewManagerExample/RETableViewManagerExample-Prefix.pch";
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				INFOPLIST_FILE = "RETableViewManagerExample/RETableViewManagerExample-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
