@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		11ADEAF01D0FF9C800F46123 /* RETableViewManager.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 11ADEAEF1D0FF9C800F46123 /* RETableViewManager.podspec */; };
 		302D2150170B25B10085654F /* ControlsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 302D214A170B25B10085654F /* ControlsViewController.m */; };
 		302D2151170B25B10085654F /* ListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 302D214C170B25B10085654F /* ListViewController.m */; };
 		302D2152170B25B10085654F /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 302D214E170B25B10085654F /* RootViewController.m */; };
@@ -65,6 +66,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		11ADEAEF1D0FF9C800F46123 /* RETableViewManager.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = RETableViewManager.podspec; sourceTree = "<group>"; };
 		2CB8A3CB021C642AB3E6C98D /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
 		302D2149170B25B10085654F /* ControlsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ControlsViewController.h; sourceTree = "<group>"; };
 		302D214A170B25B10085654F /* ControlsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ControlsViewController.m; sourceTree = "<group>"; };
@@ -274,6 +276,7 @@
 		30EF93B816E039B800B84981 /* RETableViewManagerExample */ = {
 			isa = PBXGroup;
 			children = (
+				11ADEAEF1D0FF9C800F46123 /* RETableViewManager.podspec */,
 				30EF93C116E039B800B84981 /* AppDelegate.h */,
 				30EF93C216E039B800B84981 /* AppDelegate.m */,
 				302D2147170B25B10085654F /* Classes */,
@@ -403,6 +406,7 @@
 				30939CF017949A10004D95A9 /* userpic2.jpg in Resources */,
 				30939CF117949A10004D95A9 /* userpic3.jpg in Resources */,
 				30939CF217949A10004D95A9 /* userpic4.jpg in Resources */,
+				11ADEAF01D0FF9C800F46123 /* RETableViewManager.podspec in Resources */,
 				30939CF317949A10004D95A9 /* userpic5.jpg in Resources */,
 				30939CF417949A10004D95A9 /* userpic6.jpg in Resources */,
 				30D1C7D617AC08F4001F731C /* First_Alt@2x.png in Resources */,
